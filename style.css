@@ -53,3 +53,29 @@ body{
     height: 80%;
     width: 70%;
 }
+.text-center{
+    text-align: center;
+}
+.text-center p{
+    width: 50%;
+    margin-left: 470px;
+}
+.recipies-item{
+    display: flex;
+    width: 65%;
+    margin-left: 15px;
+}
+.food-recipies{
+    width: 30%;
+    margin-left: 150px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+    padding: 15px;
+}
+.image-3{
+    height: 200px;
+    width: 300px;
+}
+#some-radius{
+    border-radius: 5%;
+}
