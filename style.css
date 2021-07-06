@@ -86,3 +86,49 @@ body{
 .like{
     margin-left: 300px;
 }
+.image-size{
+    width: 300px;
+    height: 250px;
+    border-radius: 5%;
+    margin: 80px;
+    
+}
+.food-manu{
+    text-align: center;
+    border: 2px solid;
+    padding: 10px,40px;
+    background-image: -webkit-linear-gradient(right,blue,cyan);
+}
+.flax-manu-1{
+    display: flex;
+}
+.flax-manu-2{
+    display: flex;
+}
+.flax-manu-3{
+    display: flex;
+}
+.price-1{
+    text-align: center;
+    margin-top: -90px;
+}
+footer{
+    background-color: black;
+    border: 2px solid;
+    padding: 10px,40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.text-footer{
+    text-align: center;
+}
+.footer-center{
+    text-align: center;
+    color: white;
+}
+.food-color{
+   color: orange
+}
+.net-color{
+    color: grey;
+}
