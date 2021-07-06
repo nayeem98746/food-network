@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+.top-food{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.order-botton{
+    text-decoration: none;
+    background-image: -webkit-linear-gradient(right,orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 100px;
+    
+}
+.orange-color{
+    color: orange;
+}
+.under{
+    margin-top: -20px;
+
+}
