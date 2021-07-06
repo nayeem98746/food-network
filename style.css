@@ -79,3 +79,10 @@ body{
 #some-radius{
     border-radius: 5%;
 }
+.famous{
+    display: flex;
+    padding: 50px;
+}
+.like{
+    margin-left: 300px;
+}
